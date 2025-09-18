@@ -1,1 +1,1 @@
-console.log("First Commit in Master Branch")
+console.log("First Commit in Master Branch, Voh pahla vala commit donon branches man same ha")
