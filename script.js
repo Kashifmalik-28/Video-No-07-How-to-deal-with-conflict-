@@ -1,1 +1,1 @@
-console.log("First Commit in Master Branch, No Change in 1st Form")
+console.log("First Commit in Master Branch, Change First into 1st")
