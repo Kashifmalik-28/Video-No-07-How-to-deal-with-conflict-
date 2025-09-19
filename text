@@ -1,0 +1,6 @@
+<code>git commit -m "Save Notes First Time of Video _ No _ 08 "</code> code ko
+stash krna ka shortcut. <code>git stash list</code> yah dakhna kalia kah konsa
+code stashing Area man ha. <code>git stash apply 0</code> Jis stash ko apply
+krna ha dobara uska No da do. <code>git stash drop 1</code> Agr aik aik kr kah
+changes ko remove krna ha. <code>git stash clear</code> Agr ziada changes ke han
+to unko aik he martba man clear kr skta han.
